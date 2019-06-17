@@ -2,6 +2,7 @@
     "name": "sunxyw/sxyboot",
     "description": "A lite framework",
     "keywords": ["framework", "rest", "router", "psr7", "mvc", "lite"],
+    "type": "project",
     "homepage": "http://github.com/sunxyw/sxyboot",
     "license": "MIT",
     "authors": [
