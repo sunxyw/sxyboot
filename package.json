@@ -1,0 +1,16 @@
+{
+  "name": "sxyboot",
+  "version": "1.0.0",
+  "main": "public/index.php",
+  "license": "MIT",
+  "author": "sunxyw",
+  "devDependencies": {
+    "cross-env": "^5.1",
+    "cz-conventional-changelog": "^2.1.0",
+    "laravel-mix": "^4.0.7",
+    "resolve-url-loader": "^2.3.1",
+    "sass": "^1.17.4",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
